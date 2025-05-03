@@ -4,6 +4,10 @@
 
 <p align="left">
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ras675&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
   # 💫 About Me:
 🎓 An Undergraduate student of Computer Science and Engineering(CSE) at Islamic University of Technology(IUT)<br>🔭 Currently working on a MERN stack project and exploring freelancing opportunities<br>🌱 Eager to learn and develop skills in web development, AI, and cloud computing
 
@@ -15,9 +19,25 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ras675&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ras675&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ras675&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🔥 **Streak Stats**
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ras675&theme=radical)
+
+---
+
+## 📊 **Contribution Graph**
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ras675&theme=dracula)](https://github.com/ras675/github-readme-activity-graph)
+
+---
+## 🚀 **Featured Projects**
+
+- 🌐 [Positivus Agency Website](https://github.com/ras675/positivus-agency): A modern, responsive website built with HTML, CSS, JS  
+- 📦 [Parcel Delivery System](https://github.com/ras675/ParcelDeliverySystem): A full-stack system for parcel logistics  
+- 🛍️ [Ecommerce Platform](https://github.com/ras675/Ecommerce): Scalable MERN-stack eCommerce web application  
+- 📝 [mCertiKOS Kernel](https://github.com/ras675?tab=repositories&q=mCertiKOS): Low-level C kernel work for an educational OS
+
+---
 
 </p>
 
